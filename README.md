@@ -105,6 +105,7 @@ O programa deverá , em sequência :
 Precisaremos então, em uma interface gráfica simples (web), de uma tela com dois botões:
 
 Botão 1 : gerar as ordens e salvá-las no banco de dados (apaga as sugestões antigas e cria novas)
+
 Botão 2 : apresentar as sugestões. Deverá mostrar as ordens de produção, transferência e expedição em 3 tabelas distintas
 
 ## Desafio Adicional (Opcional)
